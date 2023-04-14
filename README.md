@@ -1,5 +1,5 @@
 # 💫 About Me:
-Final-year computer science student, future computer scientist. My passion for computer science brought me to the National University of Computing and Emerging Sciences, where I am working on my Bachelor in Computer Science.<br><br>I have an excellent grasp of C++, React, JavaScript, e.t.c. Furthermore i have good knowledge of in Object Oriented Programming and Data Structures.<br><br>My best selling points are my confidence and leadership skills. I shine under pressure and my communication skills help me to get the best out of a given situation.
+Final-year computer science student, Front End Developer. My passion for computer science brought me to the National University of Computing and Emerging Sciences, where I am working on my Bachelor in Computer Science.<br><br>I have an excellent grasp of C++, React, JavaScript, e.t.c. Furthermore i have good knowledge of Object Oriented Programming and Data Structures. I expertise in React.js and it's libraries that include Router, Redux and UI libraries such as Material UI & Ant Design.<br><br>My best selling points are my confidence and leadership skills. I shine under pressure and my communication skills help me to get the best out of a given situation.
 
 
 ## 🌐 Socials:
